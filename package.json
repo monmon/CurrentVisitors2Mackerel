@@ -1,0 +1,15 @@
+{
+  "name": "CurrentVisitors2Mackerel",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "node-google-apps-script": "^1.1.5"
+  },
+  "scripts": {
+    "gapps": "gapps",
+    "upload": "gapps upload"
+  },
+  "author": "monmon",
+  "license": "MIT"
+}

@@ -21,5 +21,5 @@ function run() {
    },
    payload: JSON.stringify(data)
  };
- UrlFetchApp.fetch("https://mackerel.io/api/v0/services/" + mackerel.serviceName + "/tsdb", options);
+ UrlFetchApp.fetch("https://api.mackerelio.com/api/v0/services/" + mackerel.serviceName + "/tsdb", options);
 }

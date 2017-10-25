@@ -26,3 +26,4 @@
 
 * [danthareja/node-google-apps-script](https://github.com/danthareja/node-google-apps-script)
 * [Google Analyticsの「現在の訪問人数」を Mackerel に投稿する heroku app を作ったよ](http://blog.a-know.me/entry/2016/09/19/162242)
+* [Google API を試す](https://developers.google.com/apis-explorer/?hl=ja#p/analytics/v3/analytics.data.realtime.get)
